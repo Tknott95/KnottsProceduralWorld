@@ -1,1 +1,3 @@
 # KnottsProceduralWorld
+
+### UNFINISHED - ENDED UP USING C++ INSTEAD w/ NO FRAMEWORKS 
